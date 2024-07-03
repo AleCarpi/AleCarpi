@@ -1,4 +1,4 @@
-# Hola, soy Ale Carpinelli 👨🏻‍💻 🇺🇸
+# Hola, soy Ale Carpinelli 👨🏻‍💻
 ### Desarrollador Full-Stack y Entusiasta de la Tecnología Blockchain 🚀
 
 ![https://github.com/AleCarpi](Presentación%20Github-1.png)
