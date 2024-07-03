@@ -24,7 +24,7 @@ En este repositorio, encontrarás el código fuente de mi sitio web personal, do
 
 Si tienes preguntas o sugerencias, no dudes en ponerte en contacto conmigo a través de:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/alejandro-carpinelli-a480b863-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/ahcarpinelli/)
 </br>
 [![ahcarpinelli@gmail.com](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ahcarpinelli%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ahcarpinelli@gmail.com)
 
